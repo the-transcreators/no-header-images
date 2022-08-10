@@ -3,7 +3,7 @@
     <title>NO HEADER IMAGES</title>
     <link href="https://the-transcreators.github.io/no-header-images/feed.xml" rel="self" />
     <link href="https://the-transcreators.github.io/no-header-images" />
-    <updated>2022-08-11T00:52:50+02:00</updated>
+    <updated>2022-08-11T00:57:57+02:00</updated>
     <author>
         <name>author1</name>
     </author>
@@ -187,10 +187,10 @@
         <link href="https://the-transcreators.github.io/no-header-images/image-friendly.html"/>
         <id>https://the-transcreators.github.io/no-header-images/image-friendly.html</id>
 
-        <updated>2022-08-11T00:52:50+02:00</updated>
+        <updated>2022-08-11T00:57:57+02:00</updated>
             <summary>
                 <![CDATA[
-                    IMAGE-FRIENDLY This template is designed to have a header image on each page. Adding them is quick and easy, but choosing them can take some time (although many would argue that it's worth the effort). SEE TEMPLATE WITH HEADER IMAGES Videos can be embedded in a few clicks
+                    IMAGE-FRIENDLY This template is designed to have a header image on each page. Adding them is quick and easy, but choosing them can take some time (although many would argue that it's worth the effort). SEE TEMPLATE WITH HEADER IMAGES Great-looking image galleries can be created in a few minutes&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -219,7 +219,7 @@
 <figcaption>Pen and notebook</figcaption>
 </figure>
 </div></div>
-<p> </p>
+<div> </div>
 <h4>Videos can be embedded in a few clicks</h4>
 <div class="post__iframe"><iframe loading="lazy" width="1280" height="720" src="https://www.youtube.com/embed/rzmd7RouGrM?start=25" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
 <div> </div>
